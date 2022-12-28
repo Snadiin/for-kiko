@@ -1,9 +1,15 @@
 .header{
+    display: flex;
     background-color: black;
     max-width: 100%;
     max-height: 35px;
+    flex-wrap: nowrap;
 }
-.header-logo{
-    width: 35px;
-    height: 25px;
+.header__logo{
+    width: 55px;
+    height: 35px;
+    margin: 0px 30px 5px 50px;
+}
+.header__img{
+    margin-top: 8px;
 }
