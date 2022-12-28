@@ -9,3 +9,7 @@
     color:#f8eccc;
     --main-text-color: #222;
 }
+img{
+    display: block;
+    width: 100%;
+}
