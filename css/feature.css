@@ -1,0 +1,41 @@
+.feature{
+background-color: rgba(243, 202, 223, 0.589);
+}
+.feature__conteiner{
+}
+.feature__conteiner-kiko{
+    color: black;
+    text-align: center;
+    line-height: 50px;
+}
+.feature__kiko{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.feature__kiko-ikon{
+    align-self: center;
+}
+.feature__kiko-ikon-img{
+    width: 50px;
+    height: auto;
+ margin: 10px;
+}
+.feature__kiko-description{
+    margin: 10px;
+    text-align: justify;
+}
+.feature__kiko-description-name{
+    color: black;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: medium;
+}
+.feature__kiko-description-text{
+    font-size: small;
+    color: black;
+}
+.feature__kiko-description-title{
+    color: black;
+    font-size: small;
+}

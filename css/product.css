@@ -1,0 +1,50 @@
+.product{
+background-color: antiquewhite;
+}
+.product__conteiner{
+    width: 100%;
+    display: flex;
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: 34% 33% 33%;
+}
+.product__conteiner-object{
+    border-color: black;
+    border:groove;
+    padding: auto;
+    min-width: 137px;
+    height: auto;
+}
+.product__conteiner-name{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:smaller;
+    color: black;
+}
+.product__conteiner-title{
+    text-align: center;
+    font-size:medium;
+    color: black;
+}
+.product__conteiner-text{
+    min-width: 120px;
+    height: 60px;
+    text-align: center;
+    font-size:x-small;
+    color: black;
+}
+.product__conteiner-price{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    text-align: center;
+    color: black;
+}
+.assortment__conteiner-button{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    border-width: 10px;
+    background-color: rgba(29, 16, 212, 0.801);
+    border-radius: 45px;
+    color: black;
+}
