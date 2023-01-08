@@ -6,8 +6,11 @@
 }
 :root{
     font-family: 'Libre Baskerville', serif;
-    color:#f8eccc;
-    --main-text-color: #222;
+    --main-text-color: #310526;
+    --fons-color: #fddcf7ab;
+    --fon-color: #ffffff;
+    --fan-color: #6e0b40;
+    background-color: var(--fons-color);
 }
 img{
     display: block;

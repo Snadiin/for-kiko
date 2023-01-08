@@ -1,0 +1,14 @@
+
+.video{
+    margin-block: 60px;
+    width: 100%;
+}
+.video__conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+}
